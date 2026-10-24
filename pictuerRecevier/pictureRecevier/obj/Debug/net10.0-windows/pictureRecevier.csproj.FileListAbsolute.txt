@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\bin\Debug\net10.0-windows\pictureRecevier.exe
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\bin\Debug\net10.0-windows\pictureRecevier.deps.json
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\bin\Debug\net10.0-windows\pictureRecevier.runtimeconfig.json
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\bin\Debug\net10.0-windows\pictureRecevier.dll
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\bin\Debug\net10.0-windows\pictureRecevier.pdb
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\obj\Debug\net10.0-windows\pictureRecevier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\obj\Debug\net10.0-windows\pictureRecevier.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\obj\Debug\net10.0-windows\pictureRecevier.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\obj\Debug\net10.0-windows\pictureRecevier.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\obj\Debug\net10.0-windows\pictureRecevier.dll
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\obj\Debug\net10.0-windows\refint\pictureRecevier.dll
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\obj\Debug\net10.0-windows\pictureRecevier.pdb
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\obj\Debug\net10.0-windows\pictureRecevier.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pictuerRecevier\pictureRecevier\obj\Debug\net10.0-windows\ref\pictureRecevier.dll

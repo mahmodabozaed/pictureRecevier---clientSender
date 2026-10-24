@@ -1,0 +1,4 @@
+C:\Users\ASUS\Desktop\pictuerRecevier\obj\Debug\net10.0\pictuerRecevier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pictuerRecevier\obj\Debug\net10.0\pictuerRecevier.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pictuerRecevier\obj\Debug\net10.0\pictuerRecevier.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pictuerRecevier\obj\Debug\net10.0\pictuerRecevier.csproj.CoreCompileInputs.cache
