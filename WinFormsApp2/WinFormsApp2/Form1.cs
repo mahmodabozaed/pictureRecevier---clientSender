@@ -35,7 +35,7 @@ public partial class Form1 : Form
                 ms.Close();
 
                 // Connect to server
-                TcpClient myclient = new TcpClient("92.251.139.92", 5020);
+                TcpClient myclient = new TcpClient("server.txt", 5020);
 
                 // Get network stream
                 NetworkStream myns = myclient.GetStream();
